@@ -40,3 +40,10 @@ KLeq_main('n-carbon.mat')
 ```
 
 The default data has **14 columns**, corresponding to LSV curves obtained at **225, 400, 625, 900, 1225, 1600, 2025 rpm** (each LSV has 2 columns, 1 for potential and 1 for current).  
+
+If you have correctly installed the MATLAB already (I mean, set the MATLAB root directory into the environment path, Windows system), then you can safely **click the bat file** below in `src/` to start the MATLAB: 
+
+```shell 
+start.bat
+```
+
